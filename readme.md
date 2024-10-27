@@ -14,6 +14,10 @@ A MTCNN (Multi-task Cascaded Convolutional Networks) é uma rede neural multicam
 - [x] Exibição da imagem com marcação das faces detectadas.
 
 
+```bash
+pip install torch facenet-pytorch pillow
+```
+
 ## Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação principal.
@@ -28,7 +32,4 @@ Certifique-se de ter as seguintes bibliotecas instaladas:
 ## Demonstração
 
 ![Interface](demo.png)
-
-```bash
-pip install torch facenet-pytorch pillow
 
